@@ -1,0 +1,6 @@
+{
+  "name": "Study Tracker",
+  "description": "Track daily study timings for video lectures, self-study, and question practice with automatic aggregators, history, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
