@@ -57,8 +57,8 @@
 ### Clone & Assemble Locally
 ```bash
 # Clone this archive
-git clone https://github.com/v1shal-irl/study-flow.git
-cd study-flow
+git clone https://github.com/d1vyamishra/StudyFlow/.git
+cd StudyFlow
 
 # Compile and verification check
 gradle assembleDebug
