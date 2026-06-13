@@ -1,6 +1,6 @@
 # 🌌 Study Flow — Bento-Stylized Study Tracker
 
-[![Build Android APK](https://github.com/v1shal-irl/study-flow/actions/workflows/android.yml/badge.svg)](https://github.com/v1shal-irl/study-flow/actions/workflows/android.yml)
+[![Build Android APK](https://github.com/d1vyamishra/StudyFlow/actions/workflows/android.yml/badge.svg)](https://github.com/d1vyamishra/StudyFlow/actions/workflows/android.yml)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple.svg?style=flat-square&logo=kotlin)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack_Compose-blue.svg?style=flat-square&logo=jetpackcompose)](https://developer.android.com/jetpack/compose)
 [![Material 3 Android](https://img.shields.io/badge/Design-Material_3-blueviolet.svg?style=flat-square)](https://m3.material.io/)
